@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Мое приложение</string>
+    <string name="textfield">Нажмите на кнопку</string>
+    <string name="btn1">Привет мир</string>
+    <string name="btn2">Я люблю джаву</string>
+    <string name="btn3">Андроид лучший</string>
+</resources>

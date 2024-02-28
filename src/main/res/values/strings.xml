@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textfield">Click the button</string>
+    <string name="btn1">Hello World</string>
+    <string name="btn2">I love java</string>
+    <string name="btn3">Android is the best</string>
+</resources>

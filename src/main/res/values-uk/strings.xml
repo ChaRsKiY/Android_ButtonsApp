@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Моя програма</string>
+    <string name="textfield">Натисніть на кнопку</string>
+    <string name="btn1">Привіт, світ</string>
+    <string name="btn2">Я люблю Java</string>
+    <string name="btn3">Android - найкращий</string>
+</resources>
